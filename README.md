@@ -8,6 +8,17 @@ README
 The heidelpay phpDocumentor is the same packages as phpDocumentor. We've just add over own heidelpay template.
 
 
+## Support
+For any issues or questions please get in touch with our support.
 
-* Twitter: [@devHeidlepay](http://twitter.com/devHeidelpay)
-* Website: [https://dev.heidelpay.de](https://dev.heidelpay.de)
+### Web page
+https://dev.heidelpay.com/
+ 
+### Email
+support@heidelpay.com
+ 
+### Phone
++49 (0)6221/6471-100
+
+### Twitter
+@devHeidelpay
